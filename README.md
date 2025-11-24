@@ -18,3 +18,4 @@ Users can add, edit, delete, complete, and manage tasks easily with a clean UI.
 
 ---
 
+Open project - https://todoappreactpro.netlify.app/  
