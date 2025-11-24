@@ -18,5 +18,3 @@ Users can add, edit, delete, complete, and manage tasks easily with a clean UI.
 
 ---
 
-## 📂 Project Structure
-
